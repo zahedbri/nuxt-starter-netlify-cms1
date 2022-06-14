@@ -1,6 +1,6 @@
 ---
 title: Explore great places
-image: /img/home-jumbotron.jpg
+image: /img/img-20220614-wa0000.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
