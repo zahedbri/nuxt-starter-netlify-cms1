@@ -1,7 +1,7 @@
 ---
 title: At Happygobd!
 image: /img/2022-06-13_00-41-56.png
-heading: Great coffee with a conscience
+heading: Great Escape!
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
